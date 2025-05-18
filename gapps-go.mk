@@ -5,7 +5,7 @@ PRODUCT_COPY_FILES += \
 	vendor/gapps-go/bin/google.xml:system/etc/sysconfig/google.xml \
 	vendor/gapps-go/bin/preferred-apps-google.xml:system/etc/preferred-apps/google.xml
 
-PRODUCT_PACKAGES += \
+PRODUCT_PACKAGES += \https://www.google.com/android/uncertified/
 	AssistantGo \
 	CalendarGoogle \
 	Chrome \
